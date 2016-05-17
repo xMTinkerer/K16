@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_xma_k16.user</name>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-05-17 18:01:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>736001080f2792009ea83b8ce1050efd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_xma_k16.user</sys_name>
+        <sys_package display_value="K16" source="x_xma_k16">6f608dcc0fe392009ea83b8ce1050e87</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="K16">6f608dcc0fe392009ea83b8ce1050e87</sys_scope>
+        <sys_update_name>sys_user_role_736001080f2792009ea83b8ce1050efd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-17 18:01:40</sys_updated_on>
+    </sys_user_role>
+</record_update>
